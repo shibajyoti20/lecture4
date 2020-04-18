@@ -8,5 +8,4 @@ lets also learn git and github
 git and github are very important resouces for software developments.
 
 
-
-there are a lot of things to learn in software development
+we will also learn machine machine learning and lot other cool stuff!!
