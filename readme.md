@@ -5,3 +5,4 @@ we can learn a lot other things in software developements,but web dev remains in
 
 
 lets also learn git and github
+git and github are very important resouces for software developments.
